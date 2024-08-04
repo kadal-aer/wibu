@@ -8,16 +8,16 @@ import { ListEpisodeProvider } from '@/context/ListEpisodeCtx';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Ryzendesu',
+  title: 'Nekodesu',
   description: 'Nonton anime subs Indonesia gratis',
   generator: "Next.js",
   manifest: "/manifest.json",
   keywords: ["nextjs", "nextjs13", "next13", "pwa", "next-pwa"],
   authors: [
-    { name: "ShirokamiRyzen" },
+    { name: "RynXD" },
     {
-      name: "ShirokamiRyzen",
-      url: "https://github.com/ShirokamiRyzen",
+      name: "AntiDEV",
+      url: "https://github.com/RynXD-Host",
     },
   ],
   viewport:
